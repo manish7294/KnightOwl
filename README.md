@@ -2,7 +2,7 @@
 
 KnightOwl is an arcade game depicting a Knight as main character and dragons as foes in an imaginary world.
 
-![Screenshot]({{ site.url }}blob/master/GameScreen.png "GamePlay")
+![Screenshot](GameScreen.png "GamePlay")
 
 KnightOwl is python based game built on top of PyGame 2D Engine.
 
