@@ -11,9 +11,9 @@ KnightOwl is python based game built on top of PyGame 2D Engine.
 
 # Installation:
 1. First make sure your system have python 3 installed
-2. Install pymunk using pip
+2. Install pygame using pip
    
-   pip install pymunk
+   pip install pygame
    
 3. Install pymunk
    
