@@ -1,7 +1,4 @@
 # KnightOwl
-<p align="center">
-  <img src="http://latex.codecogs.com/svg.latex?%5Cleft%5C%7CL%28%5Cvec%7Bx_%7Bi%7D%7D-%5Cvec%7Bx_%7Bl%7D%7D%29%5Cright%5C%7C%5E2%5Cleqslant%5Cleft%5C%7CL%28%5Cvec%7Bx_%7Bi%7D%7D-%5Cvec%7Bx_%7Bj%7D%7D%29%5Cright%5C%7C%5E2%2B1">
-</p> 
 
 KnightOwl is an arcade game depicting a Knight as main character and dragons as foes in an imaginary world.
 
