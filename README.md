@@ -1,5 +1,5 @@
 # KnightOwl
-
+$$x_{i}$$
 KnightOwl is an arcade game depicting a Knight as main character and dragons as foes in an imaginary world.
 
 ![Screenshot](https://raw.githubusercontent.com/manish7294/KnightOwl/master/GameScreen.png)
